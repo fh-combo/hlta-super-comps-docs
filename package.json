@@ -16,6 +16,8 @@
   },
   "dependencies": {
     "animate.css": "^4.1.1",
-    "element-ui": "^2.14.1"
+    "element-ui": "^2.14.1",
+    "vue": "^2.3.3",
+    "vue-template-compiler": "^2.4.4"
   }
 }
