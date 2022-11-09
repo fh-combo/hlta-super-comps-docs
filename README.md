@@ -1,37 +1,17 @@
-# hlta-super-comps-docs
+## 简介
 
-#### 介绍
-基于ta404ui搭建的企业级中后台业务组件增强库（使用说明文档）
+> 纯净无冗余代码及配置文件，干净整洁的 `vuePress` 模板。
 
-#### 软件架构
-软件架构说明
+基于此模板，拒绝繁琐的配置及搭建，直接根据模板进行嵌套及新增内容。
 
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210524140518737.png)
 
-#### 安装教程
+## 使用方法
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+```
+# 运行(dev)
+vuepress dev docs
 
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+# 打包(build)
+vuepress build docs
+```
