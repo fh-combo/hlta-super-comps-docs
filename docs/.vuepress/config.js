@@ -5,7 +5,7 @@ module.exports = {
     title: 'VuePress',
     description: '这是简短描述...',
     dest: './dist',
-
+    base:'./',
     // LOGO大图配置
     head: [
         ['link', {rel: 'icon', href: '/logo.jpg'}]
