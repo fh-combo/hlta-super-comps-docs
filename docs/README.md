@@ -4,7 +4,7 @@ heroImage: ./07-ACT-040120-p26-PT-Superman-HR.jpg
 heroText: 超级组件资产
 tagline: 纯净无冗余代码及配置文件，基于ta404ui扩展的通用业务组件。
 actionText: 快速上手 →
-actionLink: /guide/
+actionLink: /comps/midBack/
 features:
 - title: 简洁至上
   details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
@@ -20,7 +20,7 @@ features:
   details: 持续集成，容错率低，效率提升
 
 footer: MIT Licensed | Copyright © 2021-2050 fanghua@163.com fangh Design
---- 
+---
 
 <!-- 这里是其他内容 -->
 <div style="text-align: center;">
