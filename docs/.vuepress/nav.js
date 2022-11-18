@@ -8,23 +8,23 @@ module.exports = [{
       link: '/comps/midBack/'
     }]
   },
-  {
-      text: '普通菜单',
-      link: '/guide/'
-  },
-  {
-      text: '多级菜单',
-      link: '/baodian/',
-      items: [{
-              text: '菜单一',
-              link: '/baodian/zero/'
-          },
-          {
-              text: '菜单二',
-              link: '/baodian/high/'
-          },
-      ]
-  },
+  // {
+  //     text: '普通菜单',
+  //     link: '/guide/'
+  // },
+  // {
+  //     text: '多级菜单',
+  //     link: '/baodian/',
+  //     items: [{
+  //             text: '菜单一',
+  //             link: '/baodian/zero/'
+  //         },
+  //         {
+  //             text: '菜单二',
+  //             link: '/baodian/high/'
+  //         },
+  //     ]
+  // },
   {
     text: '工具箱',
     items: [{
