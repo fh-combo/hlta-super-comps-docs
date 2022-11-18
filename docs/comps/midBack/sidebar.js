@@ -54,4 +54,11 @@ module.exports = [{
       '/comps/midBack/superComps/utils/超级工具引擎.md',
     ]
   },
+  {
+    title: '问题处理',
+    collapsable: true,
+    children: [
+      '/comps/midBack/superComps/_issue/常见问题.md',
+    ]
+  }
 ]
