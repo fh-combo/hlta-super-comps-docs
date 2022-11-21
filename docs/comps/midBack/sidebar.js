@@ -60,5 +60,13 @@ module.exports = [{
     children: [
       '/comps/midBack/superComps/_issue/常见问题.md',
     ]
+  },
+  {
+    title: '通用公约',
+    collapsable: true,
+    children: [
+      '/comps/midBack/superComps/_common/通用规范.md'
+    ]
+
   }
 ]
